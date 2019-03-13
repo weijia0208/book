@@ -1,0 +1,22 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "电子书测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijia0208/book.git"
+  },
+  "author": "weijia0208",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weijia0208/book/issues"
+  },
+  "homepage": "https://github.com/weijia0208/book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
